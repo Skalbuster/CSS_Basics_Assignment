@@ -1,0 +1,35 @@
+/* Paragraph with favorite text and background color */
+.color-example {
+    color: darkblue; /* Named text color */
+    background-color: #fcd34d; /* Hex background (light gold/yellow) */
+    border: 2px solid green; /* Border with color and thickness */
+    padding: 10px;
+}
+
+/* Header styling */
+.header-example {
+    font-size: 36px;
+    font-family: 'Arial', sans-serif;
+    color: crimson;
+}
+
+/* Unordered list styling */
+.list-example {
+    color: darkgreen;
+    list-style-type: square; /* Changes bullet style */
+}
+
+/* Paragraph with text transformations */
+.text-example {
+    font-family: 'Georgia', serif;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+/* Styled div element */
+.div-example {
+    background-color: #cce7ff; /* Light blue background */
+    border: 3px dashed navy;
+    padding: 15px;
+}
